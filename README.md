@@ -5,4 +5,4 @@
 * Run `bundle install`
 * Run `ruby program.rb`
 * Play with the program a little bit. What does this code do?
-* Open `program.rb`. Try to find the answers to the comments.
+* Open `program.rb` in your code editor. Try to find the answers to the comments.
